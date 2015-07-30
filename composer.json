@@ -1,0 +1,22 @@
+{
+    "name": "d2emon/trcards",
+    "description": "Trade cards for octolana",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "octolana"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Dmitry Kutsenko",
+            "email": "d2emonium@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "d2emon\\trcards\\": ""
+        }
+    }
+}
